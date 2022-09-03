@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **JAVA , Android**
+- 💬 Ask me about **JAVA , HTML , CSS , DSA , SQL**
 
 - 📫 How to reach me **satyamsobhraj819@gmail.com**
 
